@@ -44,7 +44,7 @@
 .messages-success {
     margin: 20px;
     color: white;
-    background-color: green;
+    background-color: #045c84;
     font-weight: 200;
 }
 
@@ -97,7 +97,7 @@
         padding-top: 12px;
         padding-bottom: 12px;
         text-align: center;
-        background-color: balck;
+        background-color: #045c84;
         color: white;
     }
 
